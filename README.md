@@ -1,4 +1,4 @@
-### Hello, I'm Rosania. Welcome to my GitHub!  👋
+### Hello, I'm Rosania. Welcome to my GitHub! :wave:
 
 My name is Rosania Pinto and I'm a data analyst. I come from an artistic, coaching, and administrative background and have a BFA in Art from Brooklyn College. My interest in data analysis sparked when I learned about different functions in Excel at Grace Institute, an administrative program I did. My diverse experiences pushes me to solve problems, find solutions, and tell stories using data. Outside of work, she enjoys creating art, playing video games, and watching videos on YouTube. Feel free to take a look on the projects I've done and or ask any questions you have. 
 
