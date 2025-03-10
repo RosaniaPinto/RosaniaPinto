@@ -8,7 +8,7 @@ Feel free to take a look on the projects I've done and or ask any questions you 
 
 - LinkedIn: <a href="https://www.linkedin.com/in/rosaniapinto/">RosaniaPinto</a>
 - Twitter: <a href="https://twitter.com/Rosania_Pinto">@Rosania_Pinto</a>
-- Email: RosaniaPinto@gmail.com
+- Email: RosaniaPintos@gmail.com
 - Tableau Public - https://public.tableau.com/profile/rosaniapinto#!/
 <!--
 **RosaniaPinto/RosaniaPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
